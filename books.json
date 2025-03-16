@@ -1,0 +1,26 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "ReactJS Asoslari",
+      "author": "Shahriyor Dev"
+    },
+    {
+      "id": "cff1",
+      "title": "Urush va tinchlik",
+      "author": "Tolstoy"
+    },
+    {
+      "id": "f2b7",
+      "title": "www",
+      "author": "rrrrr"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "title": "wwwwwwww",
+      "author": "rrrrrrrr"
+    }
+  ]
+}
